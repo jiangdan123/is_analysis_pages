@@ -71,7 +71,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Montserrat Bold Italic', 'Montserrat', sans-serif;
+  font-family:'Montserrat Bold Italic', 'Montserrat Regular', 'Montserrat', sans-serif;
   font-weight:700;
   font-style:italic;
   color:#AAAAAA;
@@ -84,7 +84,7 @@
   width:192px;
   height:39px;
   display:flex;
-  font-family:'Montserrat Bold Italic', 'Montserrat', sans-serif;
+  font-family:'Montserrat Bold Italic', 'Montserrat Regular', 'Montserrat', sans-serif;
   font-weight:700;
   font-style:italic;
   color:#AAAAAA;
@@ -377,15 +377,15 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:57px;
+  width:53px;
   height:31px;
 }
 #u22 {
   border-width:0px;
   position:absolute;
-  left:734px;
+  left:738px;
   top:134px;
-  width:57px;
+  width:53px;
   height:31px;
   display:flex;
 }
